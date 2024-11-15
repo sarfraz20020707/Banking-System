@@ -1,4 +1,4 @@
-# 11.- Banking-System-OOP-Python :bank::desktop_computer:
+# Banking-System-OOP-Python :bank::desktop_computer:
 
 This project simulates a basic banking system with functionalities similar to an ATM machine. It allows users to register, log in, and perform common banking operations such as depositing, withdrawing money, and checking their balance.
 
